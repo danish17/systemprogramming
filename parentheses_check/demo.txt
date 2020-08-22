@@ -1,0 +1,17 @@
+struct paranthesis{
+	int col;
+	int row;
+	char par;
+};
+
+void showstack(stack <paranthesis> s) 
+{ 
+    while (!s.empty()) 
+    { 
+        cout << "Col" << s.top().col << "Row" << s.top().row << "Par" << s.top().par; 
+        cout << '\n'; 
+        s.pop(); 
+    ) 
+    
+)
+{
