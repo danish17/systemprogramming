@@ -1,0 +1,8 @@
+add start 1000
+    lda   one
+    add   val
+    sta   two
+val equ   10
+one word  100
+two resw  1
+    end   add
