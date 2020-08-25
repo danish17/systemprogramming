@@ -14,3 +14,4 @@
 |Parentheses Check|A program to check the balance of parentheses, highlight mismatched parentheses, and show missing parentheses|C++|
 |Symbol Table|Menu driven program to implement symbol table indexed by hashes. Uses Bloom Filter, and ability to add, lookup, and show table.|C++|
 |Symbol Table From ASM|Menu driven program to implement symbol table indexed by hashes. Uses Bloom Filter, and (minimum) ability to read and create symbol table from assembly code.|C++|
+|16-bit One-Pass Assembler|A program to assemble 16-bit ASM and generate machine code|C++|

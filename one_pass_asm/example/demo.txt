@@ -1,0 +1,6 @@
+LOAD R1,aH
+sam:
+STR R1,R6
+ADD R1,R2,R3
+JMP sam
+MVI R1,R2
